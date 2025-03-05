@@ -116,9 +116,7 @@ jobs:
   ```sh
   mvn allure:serve
   ```
-- To view test results from github actions visit:
-  ```sh
-https://cikovkire.github.io/allwynproject/
-  ```
+- To view test results from github actions visit: https://cikovkire.github.io/allwynproject/
+  
 
 

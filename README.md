@@ -29,8 +29,8 @@ scoop install allure # Windows (Scoop)
 ### From Command Line
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/cikovkire/allwynproject.git
+   cd allwynproject
    ```
 2. Install dependencies:
    ```sh
@@ -115,6 +115,10 @@ jobs:
 - To view test results locally, run:
   ```sh
   mvn allure:serve
+  ```
+- To view test results from github actions visit:
+  ```sh
+https://cikovkire.github.io/allwynproject/
   ```
 
 
